@@ -1,7 +1,6 @@
 <img src="https://github.com/almaas21/almaas21/blob/main/text.gif"/> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px"/>
-<p align="left"><img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png"/></p>
+<img src="https://github.com/almaas21/almaas21/blob/main/Vp3L.gif" width="100%" height="40px"><p align="left"><img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png"/></p>
 
-<img src="https://github.com/almaas21/almaas21/blob/main/Vp3L.gif" width="100%" height="3px">
 
 <!--
 
