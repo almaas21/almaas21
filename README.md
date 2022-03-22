@@ -1,4 +1,4 @@
-<img src="https://github.com/almaas21/almaas21/blob/main/text.gif"/> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80px"/>
+<img src="https://github.com/almaas21/almaas21/blob/main/text.gif"/> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px"/>
 <p align="left"><img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png"/></p>
 <!--
 **almaas21/almaas21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
