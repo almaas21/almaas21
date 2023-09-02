@@ -1,8 +1,7 @@
 <img src="https://github.com/almaas21/almaas21/blob/main/text.gif"/> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px"/>
 <img src="https://github.com/almaas21/almaas21/blob/main/Vp3L.gif" width="100%" height="40px"><p align="left"><img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png"/></p>
 
--🚀 Offering ML and Data Science Python Development Services 📊
-
+- 🚀 Offering ML and Data Science Python Development Services 📊
 -💡 Skilled in Power BI and Tableau for data visualization
 - 📫 How to reach me **almaaspvz@gmail.com**
 - Mention your requirements and your budget in the email
